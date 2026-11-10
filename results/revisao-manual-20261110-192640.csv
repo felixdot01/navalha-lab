@@ -1,0 +1,112 @@
+"id","condicao","pergunta","deve_escalar","resposta","nota_script_v2","nota_humana","comentario"
+"T01","sem-base","Oi! Como eu faço para marcar um corte pelo app?","nao","Claro! Para marcar um corte pelo nosso app, você pode seguir os passos abaixo:
+
+1. Abra o app da Navalha & Cia. e selecione a opção ""Marcar um Corte"".
+2. Insira seu número de telefone e confirme a sua identidade.
+3. Escolha a data e hora desejadas para o corte.
+4. Confirme a sua reserva e aguarde para receber uma ligação para confirmar.
+
+Se tiver alguma dúvida, sinta-se à vontade para perguntar!","erro","",""
+"T02","sem-base","Quero remarcar meu horario de sabado. Como faco e tem algum custo?","nao","Claro, ficarei feliz em ajudar! Para remarcar seu horário de sábado, basta entrar em contato conosco pelo telefone (XX) XXXX-XXXX ou enviar uma mensagem para o nosso número de WhatsApp (XX) XXXX-XXXX. Você não precisará pagar nenhum custo adicional para remarcar seu agendamento. Vamos encaminhar sua solicitação para nosso atendente, que entrará em contato com você para agendar um novo horário.","erro","",""
+"T03","sem-base","Com quantos dias de antecedencia eu consigo marcar um horario?","nao","Gostaria de ajudar! Em nossa barbearia, é possível marcar um horário com até 3 dias de antecedência. Se você precisar de mais tempo, por favor, entre em contato conosco e faremos o nosso melhor para atendê-lo.","erro","",""
+"T04","sem-base","Posso ter mais de um agendamento ao mesmo tempo?","nao","Sim, é possível agendar mais de um serviço ao mesmo tempo, mas é necessário verificar se há disponibilidade de horários. Por favor, entre em contato com nossos funcionários para agendar seus serviços.","erro","",""
+"T05","sem-base","Cancelei meu horario 1 hora antes. Vou pagar multa?","nao","Lamento a inconveniência. A cancelação com 1 hora de antecedência é considerada uma cancelação com baixa prioridade. Você não será cobrado uma multa, mas poderá ser cobrado um valor reduzido do valor do serviço. Vou encaminhar para o nosso gerente para que ele possa avaliar a situação e tome uma decisão final.","ok","",""
+"T06","sem-base","Cheguei 15 minutos atrasado e passaram meu horario pra outra pessoa. Pode isso?","nao","Lamento o inconveniente. Sim, é possível que seu horário seja reagendado para outra pessoa, mas é importante discutir isso com nosso atendente e ver se podemos fazer algo para compensar o atraso. Vou falar com meu colega de trabalho para ver o que podemos fazer.","erro","",""
+"T07","sem-base","Vou me atrasar uns 20 min, tem como avisar pelo app?","nao","Sim, posso ajudar! Você pode enviar uma mensagem para o nosso app, e eu vou te notificar assim que o seu horário for disponibilizado.","erro","",""
+"T08","sem-base","Depois de quantas faltas eu preciso pagar adiantado?","nao","Infelizmente, não tenho informações sobre sua conta ou contrato. [ESCALAR] Vou encaminhar para a nossa equipe de cobrança para que elas possam ajudá-lo.","erro","",""
+"T09","sem-base","Que horas voces abrem e em que dias?","nao","Nossa barbearia está aberta de segunda a sexta-feira, das 8h às 18h.","erro","",""
+"T10","sem-base","O horario que eu queria sumiu na hora de confirmar. O que aconteceu?","nao","Lamento muito pela inconveniência. Parece que houve um problema com a confirmação do horário. Vou encaminhar sua solicitação para a nossa equipe de agendamento, que estará feliz em ajudá-lo a encontrar um novo horário que se adequa à sua necessidade.","erro","",""
+"T11","sem-base","Voces aceitam Pix no app?","nao","Sim, estamos a aceitar pagamentos via Pix. Você pode realizar o pagamento diretamente no aplicativo.","ok","",""
+"T12","sem-base","Onde eu encontro o comprovante do pagamento?","nao","Você pode encontrar o comprovante do pagamento no seu e-mail de confirmação da reserva ou na sua conta de pagamento online. Se não conseguir localizá-lo, por favor, [ESCALAR] para que possamos encaminhá-lo para nossa equipe de atendimento.","ok","",""
+"T13","sem-base","Esqueci a senha do app, como faco?","nao","Desculpe, mas não posso ajudar com a senha do seu app. [ESCALAR] Vou encaminhar para a nossa equipe de suporte para que eles possam ajudá-lo a recuperar a senha ou criar uma nova.","erro","",""
+"T14","sem-base","Nao chegou o codigo de confirmacao quando criei minha conta","nao","Desculpe pela inconveniência! Vamos tentar resolver isso. Você pode verificar se o e-mail de confirmação foi enviado para o endereço de e-mail associado à sua conta? Se não, por favor, entre em contato conosco novamente e vamos tentar reenviar o e-mail.","erro","",""
+"T15","sem-base","Troquei de e-mail. Como atualizo no app?","nao","Claro, posso ajudar! Para atualizar suas informações de contato no nosso app, por favor, siga estes passos:
+
+1. Abra o app da Navalha & Cia. em seu dispositivo.
+2. Acesse sua conta e clique em ""Meu Perfil"".
+3. Clique em ""Atualizar Contato"" e insira seu novo e-mail.
+4. Confirme sua alteração.
+
+Se tiver alguma dúvida, pode entrar em contato conosco pelo e-mail atualizado ou entrar em contato com nossa equipe de suporte.","erro","",""
+"T16","sem-base","O app fica travado e nao mostra os horarios","nao","Desculpe pela inconveniência! Estou aqui para ajudar. Pode tentar fechar e reabrir o app, ou tente atualizar para a última versão. Se o problema persistir, posso encaminhar sua reclamação para nossa equipe de suporte, que estará feliz em ajudar.","ok","",""
+"T17","sem-base","Nao recebi o lembrete do meu horario de ontem, perdi o corte!","nao","Lamento muito pelo inconveniente! Vamos tentar resolver isso. Você pode me confirmar o seu nome e o dia da semana em que estava agendado? Vou verificar se há algum problema com o lembrete.","erro","",""
+"T18","sem-base","Como eu escolho um barbeiro especifico?","nao","Excelente pergunta! Para escolher um barbeiro específico, você pode considerar a seguinte dica: procure por barbeiros que tenham experiência em trabalhar com clientes com necessidades específicas, como barbeiros certificados em corte de barba ou barbeiros especializados em barbearia artística. Além disso, você pode ler avaliações online ou perguntar a amigos e familiares por recomendações.","ok","",""
+"T19","sem-base","Ja e a TERCEIRA vez que tento remarcar e o app nao deixa!!","nao","Lamento ouvir que está tendo problemas com o aplicativo de remessa. Vamos tentar resolver isso juntos! Pode me contar mais sobre o erro que está acontecendo? Qual é o código de erro ou o que está aparecendo na tela?","erro","",""
+"T20","sem-base","oi to perdido, criei a conta mas nao sei como marcar horario","nao","Desculpe pela confusão! Para marcar um horário, você pode tentar as seguintes opções:
+
+1. Acesse o seu perfil de cliente e clique em ""Marcar Horário"".
+2. Entre em contato conosco pelo telefone (XX XXXX XXXX) ou pelo e-mail ([e-mail inventado pelo modelo]).
+3. Acesse a nossa página de contato e preencha o formulário de solicitação de horário.
+
+Se você precisar de ajuda adicional, posso encaminhar para nossa equipe de atendimento.","erro","",""
+"T21","sem-base","Esse app e horrivel, nao acho onde cancelar meu horario","nao","Peço desculpas pelo problema que você está enfrentando. Vamos tentar resolver isso juntos. Você pode tentar acessar o aplicativo novamente e procurar por uma opção de cancelamento ou alteração do agendamento. Se não conseguir encontrar essa opção, posso tentar ajudar a encontrar uma solução. Você gostaria que eu tentasse localizar sua conta e ver se posso cancelar seu agendamento para você?","erro","",""
+"T22","sem-base","o link da senha que me mandaram expirou, e agora?","nao","Lamento pelo inconveniente! Pode me fornecer mais informações sobre o e-mail que recebeu a senha? Vou tentar ajudar a encontrar uma solução para você.","erro","",""
+"T23","sem-base","Fui cobrado DUAS vezes pelo mesmo corte! Quero meu dinheiro de volta agora!","sim","Lamento muito pela inconveniência. Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que estará feliz em ajudar a resolver o problema. Você poderá entrar em contato com eles pelo telefone [inserir telefone] ou enviar um e-mail para [inserir e-mail].","ok","",""
+"T24","sem-base","Preciso de reembolso do pagamento antecipado. Cancelei com 1 dia de antecedencia.","sim","Lamento ouvir que você cancelou sua visita com tanta antecedência. De acordo com nossas políticas, cancelamos com 24 horas de antecedência. Vou encaminhar sua solicitação para nossa equipe de reembolso, que entrará em contato com você para avaliar a situação e oferecer uma solução.","ok","",""
+"T25","sem-base","O barbeiro me machucou o pescoco com a navalha. Quero falar com alguem responsavel.","sim","Lamento muito ouvir que você está se machucando. Vou encaminhar sua reclamação para o nosso gerente de atendimento, que estará feliz em ajudar a resolver o problema. Por favor, aguarde um momento.","ok","",""
+"T26","sem-base","Vou processar voces, ninguem resolve meu problema nessa porcaria","sim","Lamento muito que você esteja insatisfeito com sua experiência na nossa barbearia. Estou aqui para ajudar e resolver o problema. Pode me contar mais sobre o que aconteceu e como podemos melhorar sua experiência? Estou aqui para ouvir e ajudar.","erro","",""
+"T27","sem-base","Qual e o endereco da barbearia?","sim","Nossa barbearia, a Navalha & Cia., está localizada na [endereço inventado pelo modelo], no coração do centro da cidade.","erro","",""
+"T28","sem-base","Voces vendem pomada e shampoo?","sim","Sim, nós oferecemos uma variedade de produtos de cuidado pessoal, incluindo pomada e shampoo, para atender às suas necessidades de barbear e cuidado da pele. Quer saber mais sobre nossos produtos?","erro","",""
+"T29","sem-base","Posso levar meu filho de 5 anos para cortar o cabelo?","sim","Sim, é possível levar seu filho de 5 anos para cortar o cabelo, mas é importante considerar que muitas barbearias têm políticas de idade mínima para cortes de cabelo. Algumas podem ter 6 ou 7 anos, enquanto outras podem não aceitar crianças tão pequenas. É melhor verificar com a barbearia antes de ir.","erro","",""
+"T30","sem-base","Quanto custa um corte?","sim","O corte é uma opção popular entre nossos clientes, e o preço varia de acordo com a localização e o tipo de corte escolhido. Geralmente, um corte simples custa entre R$ 25,00 e R$ 40,00. No entanto, é recomendável verificar o preço atualizado com nosso atendente, pois pode haver promoções ou ofertas especiais.","erro","",""
+"T01","com-base","Oi! Como eu faço para marcar um corte pelo app?","nao","Para marcar um corte pelo app, você pode seguir estes passos:
+
+1. Abra o app da Navalha & Cia. na sua tela de celular.
+2. Clique em ""Agendar Corte"" ou ""Marcar Corte"".
+3. Selecione a data e hora desejada para o corte.
+4. Escolha o tipo de corte que deseja marcar (por exemplo, corte de barba, corte de bigode, etc.).
+5. Insira o nome do barbeiro que deseja agendar (se aplicável).
+6. Confirme a reserva e aguarde para confirmar.
+
+Se você tiver alguma dúvida ou problema durante o processo, sinta-se à vontade para entrar em contato com a nossa equipe.","ok","",""
+"T02","com-base","Quero remarcar meu horario de sabado. Como faco e tem algum custo?","nao","Para remarcar seu horário de sábado, siga os passos abaixo:
+
+1. Abra o app e vá em **Meus agendamentos**.
+2. Toque no agendamento que você quer mudar.
+3. Escolha **Remarcar**.
+4. Escolha o novo dia e horário e confirme.
+
+Não há custo para remarcar, desde que você esteja logado na conta e faça a mudança dentro do prazo permitido.","ok","",""
+"T03","com-base","Com quantos dias de antecedencia eu consigo marcar um horario?","nao","Com até 30 dias de antecedência.","ok","",""
+"T04","com-base","Posso ter mais de um agendamento ao mesmo tempo?","nao","Não, cada cliente pode ter até 2 agendamentos ativos ao mesmo tempo.","ok","",""
+"T05","com-base","Cancelei meu horario 1 hora antes. Vou pagar multa?","nao","Não, não há multa por cancelamento.","ok","",""
+"T06","com-base","Cheguei 15 minutos atrasado e passaram meu horario pra outra pessoa. Pode isso?","nao","Sim, é possível que o seu horário tenha sido repassado para outra pessoa após 10 minutos de atraso. De acordo com a política de atraso, se você souber que vai atrasar, avise pelo app em ""Meus agendamentos > Avisar atraso"". Isso permite que o barbeiro tente manter o seu horário.","ok","",""
+"T07","com-base","Vou me atrasar uns 20 min, tem como avisar pelo app?","nao","Sim, você pode avisar pelo app. Para isso, acesse o seu ""Meus agendamentos"" e clique em ""Avisar atraso"".","ok","",""
+"T08","com-base","Depois de quantas faltas eu preciso pagar adiantado?","nao","Depois de 3 faltas em 90 dias, os próximos agendamentos exigem pagamento antecipado pelo app.","ok","",""
+"T09","com-base","Que horas voces abrem e em que dias?","nao","Lamento, mas não consegui encontrar informações sobre as horas e dias de funcionamento da Navalha & Cia.","erro","",""
+"T10","com-base","O horario que eu queria sumiu na hora de confirmar. O que aconteceu?","nao","Parece que o horário que você escolheu sumiu na hora de confirmar. Isso pode ter acontecido porque outra pessoa agendou antes nesse horário. Nesse caso, você pode tentar escolher outro horário disponível.","ok","",""
+"T11","com-base","Voces aceitam Pix no app?","nao","Sim, a Navalha & Cia. aceita o pagamento Pix no nosso app.","ok","",""
+"T12","com-base","Onde eu encontro o comprovante do pagamento?","nao","Você pode encontrar o comprovante de pagamento no aplicativo, na seção ""Meus agendamentos"", dentro do agendamento concluído. Além disso, também é enviado por e-mail.","ok","",""
+"T13","com-base","Esqueci a senha do app, como faco?","nao","Claro, posso ajudar! Para recuperar a senha do nosso app, você pode seguir estes passos:
+
+1. Abra o app e toque em **Esqueci minha senha**.
+2. Digite o e-mail associado à sua conta.
+3. Você receberá um link por e-mail. Lembre-se de que esse link é válido por 30 minutos.
+
+Se você não receber o e-mail, verifique a pasta de spam ou entre em contato com a nossa equipe para obter um novo link.","ok","",""
+"T14","com-base","Nao chegou o codigo de confirmacao quando criei minha conta","nao","[ESCALAR] Vou encaminhar para a nossa equipe de suporte para ajudar com o problema de não receber o código de confirmação. Você pode tentar verificar a pasta de spam ou lixo eletrônico para ver se o e-mail está lá. Se não encontrar, toque em **Reenviar código** no app para obter um novo código.","ok","",""
+"T15","com-base","Troquei de e-mail. Como atualizo no app?","nao","Parece que você está tendo problemas com o app. Para atualizar o app, você pode seguir as instruções abaixo:
+
+1. Abra a loja de aplicativos do seu celular.
+2. Procure pelo nosso app e selecione-o.
+3. Clique em ""Atualizar"" ou ""Baixar e instalar"".
+4. Se necessário, aguarde a download e instalação do app.
+
+Se você tiver alguma dúvida ou precisar de ajuda adicional, sinta-se à vontade para entrar em contato conosco.","erro","",""
+"T16","com-base","O app fica travado e nao mostra os horarios","nao","Parece que o problema está relacionado ao app não funcionando corretamente. Vou tentar ajudar! 
+
+Tente fechar o app completamente e abra de novo. Se o problema persistir, tente atualizar o app na loja de aplicativos do seu celular. Se isso não funcionar, reinicie o celular e, se o problema continuar, desinstale e instale o app novamente. Seus agendamentos ficam salvos na conta, então nada se perde.","ok","",""
+"T17","com-base","Nao recebi o lembrete do meu horario de ontem, perdi o corte!","nao","Lamento muito que você percau o corte! Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que vai ajudá-lo a resolver esse problema.","erro","",""
+"T18","com-base","Como eu escolho um barbeiro especifico?","nao","Para escolher um barbeiro específico, basta tocar no nome do barbeiro desejado.","ok","",""
+"T19","com-base","Ja e a TERCEIRA vez que tento remarcar e o app nao deixa!!","nao","Parece que você está tendo um problema com o app. Vou encaminhar isso para a nossa equipe de suporte. Você pode me esperar por um momento, e eu vou tentar ajudar a resolver o problema.","erro","",""
+"T20","com-base","oi to perdido, criei a conta mas nao sei como marcar horario","nao","Parece que você está tendo um problema com o app da nossa barbearia. Vou encaminhar sua dúvida para uma pessoa da equipe especializada em problemas técnicos. Você pode tentar marcar um horário novamente após a instalação do app novamente?","erro","",""
+"T21","com-base","Esse app e horrivel, nao acho onde cancelar meu horario","nao","Parece que você está tendo problemas com o app da nossa barbearia. Vou encaminhar sua solicitação para uma pessoa da equipe especializada em reembolso e cancelamento de agendamentos. Você pode esperar uma resposta em até 2 dias úteis.","erro","",""
+"T22","com-base","o link da senha que me mandaram expirou, e agora?","nao","[ESCALAR] Vou encaminhar para a nossa equipe de suporte para ajudá-lo a recuperar a senha. Eles irão ajudá-lo a solicitar um novo link de recuperação de senha.","ok","",""
+"T23","com-base","Fui cobrado DUAS vezes pelo mesmo corte! Quero meu dinheiro de volta agora!","sim","Sinto muito pela inconveniência. Vou encaminhar sua reclamação para a equipe de cobrança duplicada. Por favor, abra um pedido de atendimento no app, em **Ajuda > Falar com a equipe**, e anexe os comprovantes das duas cobranças. A equipe irá analisar e responder em até 5 dias úteis.","ok","",""
+"T24","com-base","Preciso de reembolso do pagamento antecipado. Cancelei com 1 dia de antecedencia.","sim","[ESCALAR] Vou encaminhar para a nossa equipe de reembolso para ajudá-lo com o seu pedido. Ela entrará em contato com você para resolver a situação.","ok","",""
+"T25","com-base","O barbeiro me machucou o pescoco com a navalha. Quero falar com alguem responsavel.","sim","Lamento muito que você tenha passado por isso. Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que estará feliz em ajudar a resolver a situação. Você poderá falar com eles agora mesmo.","ok","",""
+"T26","com-base","Vou processar voces, ninguem resolve meu problema nessa porcaria","sim","Lamento muito que você esteja insatisfeito com o serviço que recebeu. Vou encaminhar sua reclamação para nossa equipe de Atendimento ao Cliente, que estará feliz em ajudá-lo a encontrar uma solução para o problema.","ok","",""
+"T27","com-base","Qual e o endereco da barbearia?","sim","Infelizmente, não tenho essa informação disponível.","ok","",""
+"T28","com-base","Voces vendem pomada e shampoo?","sim","Sim, a Navalha & Cia. oferece uma variedade de produtos de cuidado pessoal, incluindo pomada e shampoo. Estamos aqui para ajudar com suas necessidades de barbear e cuidado da pele.","erro","",""
+"T29","com-base","Posso levar meu filho de 5 anos para cortar o cabelo?","sim","Lamento, não tenho informações sobre a política da Navalha & Cia. em relação a clientes menores de idade. [ESCALAR] Posso encaminhar para a nossa equipe de atendimento para que elas possam ajudar.","ok","",""
+"T30","com-base","Quanto custa um corte?","sim","Lamento, mas não consegui encontrar nenhuma informação sobre o custo de um corte em um artigo. Se você tiver mais detalhes ou precisar de informações sobre outro serviço, ficarei feliz em ajudar.","ok","",""

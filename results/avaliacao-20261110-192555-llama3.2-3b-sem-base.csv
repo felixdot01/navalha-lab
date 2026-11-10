@@ -1,0 +1,11 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,escalou,pontos,proibido,recuperou_certo,acerto,segundos,resposta
+T01,sem-base,nao,kb-001,,False,0.3333333333333333,False,False,False,3.8,"Claro! Para marcar um corte pelo nosso app, você pode seguir os passos abaixo:
+
+1. Abra o app da Navalha & Cia. e selecione a opção ""Marcar um Corte"".
+2. Insira seu número de telefone e confirme a sua identidade.
+3. Escolha a data e hora desejadas para o corte.
+4. Confirme a sua reserva e aguarde para receber uma ligação para confirmar.
+
+Se tiver alguma dúvida, sinta-se à vontade para perguntar!"
+T02,sem-base,nao,kb-002,,False,0.0,False,False,False,2.8,"Claro, ficarei feliz em ajudar! Para remarcar seu horário de sábado, basta entrar em contato conosco pelo telefone (XX) XXXX-XXXX ou enviar uma mensagem para o nosso número de WhatsApp (XX) XXXX-XXXX. Você não precisará pagar nenhum custo adicional para remarcar seu agendamento. Nossa equipe estará feliz em ajudá-lo a encontrar um novo horário que se adequa à sua necessidade."
+T03,sem-base,nao,kb-001,,False,0.0,False,False,False,1.8,"Gostaria de ajudar! Em nossa barbearia, é possível marcar um horário com até 3 dias de antecedência. Se você precisar de mais tempo, por favor, entre em contato conosco e faremos o nosso melhor para atendê-lo."

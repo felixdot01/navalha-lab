@@ -1,0 +1,12 @@
+# Segredos e ambientes
+.env
+.env.*
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store

@@ -1,0 +1,7 @@
+{
+  "modelo": "llama3.2:3b",
+  "pergunta": "Como cancelo um agendamento?",
+  "artigo": "kb/cancelar-e-remarcar.md",
+  "resposta": "Para cancelar um agendamento, siga os passos abaixo:\n\n1. Abra o app da Navalha & Cia. e vá em **Meus agendamentos**.\n2. Toque no agendamento que você quer mudar.\n3. Escolha **Cancelar**.\n\nLembre-se de que o cancelamento é gratuito até 2 horas antes do horário marcado. Se tiver menos de 2 horas de antecedência, o cancelamento conta como falta. Além disso, cada agendamento pode ser remarcado no máximo 2 vezes.",
+  "segundos": 4.7
+}

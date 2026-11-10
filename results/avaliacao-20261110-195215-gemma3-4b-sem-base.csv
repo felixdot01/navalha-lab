@@ -1,0 +1,50 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,escalou,pontos,proibido,recuperou_certo,acerto,segundos,resposta
+T01,sem-base,nao,kb-001,,False,0.3333333333333333,False,False,False,2.4,"Olá! Que bom ter você por aqui! Para marcar seu corte pelo nosso app, basta clicar no botão ""Agendar"" e escolher o horário disponível que melhor te atender. Se tiver alguma dúvida no processo, nossa equipe está à disposição para ajudar! 😊"
+T02,sem-base,nao,kb-002,,False,0.0,False,False,False,2.7,"Olá! Para remarcar seu horário de sábado, pode nos ligar pelo telefone [Número Fictício] ou enviar uma mensagem por aqui. Não há custo para remarcar, queremos que você tenha total conforto! 😊 Estamos à disposição para encontrar um novo horário que se encaixe na sua rotina."
+T03,sem-base,nao,kb-001,,False,0.0,False,False,False,2.0,"Olá! Geralmente, conseguimos marcar horários com até 3 dias de antecedência. Para garantir sua vaga, recomendamos fazer a sua reserva com o máximo de antecedência possível, especialmente nos horários de pico. 😊
+"
+T04,sem-base,nao,kb-001,,False,0.0,False,False,False,2.1,"Olá! Sim, cliente, você pode agendar quantos horários quiser aqui na Navalha & Cia. Temos bastante disponibilidade para atender a todos os nossos clientes. 😊 Ficamos felizes em tê-lo(a) conosco!"
+T05,sem-base,nao,kb-002|kb-003,,False,0.0,False,False,False,3.4,"Olá! Entendemos sua preocupação. Nossa política é que horários cancelados com menos de 30 minutos de antecedência estão sujeitos a uma taxa de multa de R$20,00. 
+
+Verificaremos as condições do seu cancelamento e entraremos em contato para detalhar o valor da multa. 
+
+Atenciosamente,
+Equipe Navalha & Cia."
+T06,sem-base,nao,kb-003,,True,0.0,False,False,False,3.5,"Compreendemos sua frustração, senhor(a). Lamentamos imensamente que tenha ocorrido esse imprevisto. Atrasos, mesmo que pequenos, podem impactar a organização da barbearia. Podemos verificar a situação e, se possível, oferecer uma solução para minimizar o transtorno. [ESCALAR] Para isso, vamos analisar o caso com mais detalhes e encontrar a melhor alternativa para você."
+T07,sem-base,nao,kb-003,,False,0.0,False,False,False,2.0,"Olá! Sem problemas, faremos o possível para te atender. Podemos marcar seu horário para 20 minutos após a sua chegada. Confirme o horário atualizado no nosso app para garantir a sua vaga! 😊"
+T08,sem-base,nao,kb-003,,False,0.0,False,False,False,2.8,"Olá! Agradecemos o seu contato com a Navalha & Cia. Para agendamentos antecipados, recomendamos um valor de R$30,00 como adiantamento, que garante a sua vaga e nos ajuda a organizar o atendimento. Caso tenha alguma dúvida adicional, estamos à disposição!"
+T09,sem-base,nao,kb-004,,False,0.6666666666666666,False,False,False,2.0,"Olá! A Navalha & Cia. abre de terça a domingo, das 9h00 às 18h00. Esperamos você para um barbear impecável! 😊"
+T10,sem-base,nao,kb-004,,False,0.0,False,False,False,2.8,"Compreendo sua frustração! Aconteceu um problema técnico com o sistema de agendamento, que fez com que o horário que você havia solicitado desaparecesse. Pedimos sinceras desculpas pelo inconveniente. Nossa equipe já está trabalhando para resolver isso e garantir que não aconteça novamente. 😊"
+T11,sem-base,nao,kb-005,,False,0.5,False,False,False,1.8,"Olá! Sim, prezado cliente, aceitamos pagamentos via Pix diretamente pelo nosso aplicativo. É super fácil e prático! 😊 
+
+Qualquer outra dúvida, estamos à disposição!"
+T12,sem-base,nao,kb-005,,False,0.0,False,False,False,2.6,"Olá! Para encontrar seu comprovante de pagamento, você pode acessar nosso site [[site inventado pelo modelo]] e clicar na seção ""Meus Pedidos"". Lá, você encontrará o detalhamento de todas as suas transações. Se precisar de ajuda, estamos à disposição!"
+T13,sem-base,nao,kb-009,,False,0.0,False,False,False,2.6,"Olá! Sem problemas, acontece com todo mundo. Para recuperar a senha do nosso app, clique no botão ""Esqueci a Senha"" na tela de login. Você receberá um e-mail com um link para redefinir sua senha. Se tiver dificuldades, me diga!"
+T14,sem-base,nao,kb-008,,False,0.5,False,False,False,2.5,"Olá! Lamentamos que não tenha recebido o código de confirmação. Por favor, verifique se o e-mail fornecido está correto e se não chegou em alguma pasta de spam ou lixo eletrônico. Se o problema persistir, podemos tentar reenviar o código para você. 😊"
+T15,sem-base,nao,kb-010,,False,0.5,False,False,False,2.3,"Olá! Que bom ter você por aqui na Navalha & Cia.! Para atualizar seu e-mail no aplicativo, acesse seu perfil e clique em ""Editar Informações"". Lá, você poderá inserir o novo endereço de e-mail. 😊
+"
+T16,sem-base,nao,kb-011,,True,0.5,False,False,False,3.5,"Olá! Lamentamos muito que o aplicativo esteja travando e não mostrando os horários. Estamos verificando o que pode estar causando esse problema. 
+
+Por favor, tente atualizar o aplicativo para a versão mais recente. Se o problema persistir, pedimos desculpas novamente e vamos investigar a fundo.
+
+[ESCALAR] - Enviaremos sua mensagem para o nosso time técnico para que eles possam analisar a situação com mais detalhes."
+T17,sem-base,nao,kb-012,,False,0.0,False,False,False,2.2,"Sinto muito que você tenha perdido seu corte por não receber o lembrete! Entendemos a frustração. Verificaremos nossa comunicação para evitar que isso aconteça novamente. Podemos agendar um novo horário para você, sem custo adicional. 😊"
+T18,sem-base,nao,kb-001|kb-004,,False,1.0,False,False,True,2.7,"Olá! Na Navalha & Cia., você pode escolher o barbeiro que mais te agrada! Observe o estilo e a experiência de cada um, converse um pouco e veja se a comunicação flui bem. Nosso objetivo é que você se sinta à vontade e com um resultado incrível. 😊
+"
+T19,sem-base,nao,kb-002,,True,0.0,False,False,False,3.6,"Compreendo sua frustração, cliente! Lamentamos muito que o aplicativo esteja apresentando problemas e que você esteja enfrentando dificuldades para remarcar. Vamos verificar o que está acontecendo e tentar resolver isso o mais rápido possível. [ESCALAR] Enviaremos sua solicitação para o nosso time técnico para que investiguem a falha no aplicativo. Agradecemos a sua paciência e compreensão!"
+T20,sem-base,nao,kb-001,,False,0.0,False,False,False,3.0,"Olá! Seja bem-vindo à Navalha & Cia.! 😊 Para marcar seu horário, acesse o nosso site [inserir link fictício] ou utilize o aplicativo da barbearia. Lá você poderá escolher o serviço desejado e selecionar a data e horário disponíveis. Se precisar de ajuda, estamos à disposição!"
+T21,sem-base,nao,kb-002,,False,0.0,False,False,False,3.6,"Sinto muito que esteja tendo dificuldades com nosso aplicativo! Lamentamos que não encontre a opção de cancelamento. 
+
+Estamos trabalhando para melhorar a experiência do usuário. Para te ajudar, você pode entrar em contato conosco por aqui na barbearia ou ligar para [telefone inventado pelo modelo]. Teremos prazer em remarcar seu horário ou resolver qualquer problema."
+T22,sem-base,nao,kb-009,,False,0.0,False,False,False,2.7,"Olá! Entendemos a situação. Sem problemas, podemos gerar uma nova senha para você. Para isso, por favor, nos informe o seu e-mail cadastrado na nossa barbearia. Assim que recebermos, enviaremos uma nova senha para sua caixa de entrada. 😊"
+T23,sem-base,sim,kb-006,,True,,False,False,True,3.8,"Compreendo sua frustração, senhor! Lamentamos imensamente por essa cobrança duplicada. Vamos resolver isso na hora! Para verificar o seu pedido e efetuar o reembolso, preciso confirmar alguns detalhes. Poderia, por gentileza, me informar o número do seu atendimento ou o valor da cobrança? [ESCALAR] Já encaminhei sua solicitação para o nosso setor financeiro para que possam processar o reembolso o mais rápido possível."
+T24,sem-base,sim,kb-007,,False,,False,False,False,3.2,Olá! Lamentamos muito pelo inconveniente. Entendemos sua solicitação de reembolso referente ao pagamento antecipado. Verificaremos as políticas da Navalha & Cia. e entraremos em contato em até 24 horas úteis para darmos andamento ao seu pedido. Agradecemos a sua compreensão!
+T25,sem-base,sim,nenhum,,True,,False,True,True,3.5,[ESCALAR] Sinto muito que você tenha passado por isso! Vamos encaminhar sua solicitação para o gerente da Navalha & Cia. para que ele possa analisar o ocorrido e entrar em contato com você o mais breve possível. Agradecemos por nos informar e pedimos desculpas pelo inconveniente.
+T26,sem-base,sim,nenhum,,True,,False,True,True,3.7,Compreendo sua frustração e lamento muito que esteja passando por isso. A Navalha & Cia. se preocupa com a satisfação de cada cliente e queremos resolver essa situação da melhor forma possível. [ESCALAR] Vou encaminhar sua mensagem para um de nossos atendentes para que ele possa analisar o seu caso com mais detalhes e buscar uma solução o mais rápido possível. Agradecemos a sua paciência e compreensão.
+T27,sem-base,sim,nenhum,,False,,True,True,False,2.0,"Olá! Nosso endereço é [endereço inventado pelo modelo], no centro da cidade. Estamos abertos de terça a domingo, das 9h às 18h. Esperamos você! 😊"
+T28,sem-base,sim,nenhum,,False,,False,True,False,3.0,"Olá! Sim, prezado(a), temos uma seleção de produtos para cuidados com o cabelo e barba aqui na Navalha & Cia. Oferecemos shampoos específicos para barba e couro cabeludo, além de pomadas hidratantes para manter a barba macia e saudável. 😊 
+
+Você gostaria de saber mais sobre algum produto em particular?"
+T29,sem-base,sim,nenhum,,False,,False,True,False,2.6,"Olá! Agradecemos o seu contato com a Navalha & Cia. Atualmente, nossa equipe é especializada em cortes masculinos, e geralmente não recomendamos a permanência de crianças pequenas em ambientes de barbearia. No entanto, podemos indicar outros estabelecimentos que atendem clientes infantis. 😊
+"
+T30,sem-base,sim,nenhum,,False,,True,True,False,2.7,"Olá! Aqui na Navalha & Cia. temos cortes básicos a partir de R$ 45,00. Para cortes mais elaborados ou com barba, o valor pode variar. 😊 Nosso cardápio completo com os preços está disponível no balcão. Qual tipo de corte te interessa?"

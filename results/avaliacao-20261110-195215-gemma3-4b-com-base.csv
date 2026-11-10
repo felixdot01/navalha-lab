@@ -1,0 +1,65 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,escalou,pontos,proibido,recuperou_certo,acerto,segundos,resposta
+T01,com-base,nao,kb-001,kb-011,False,0.0,False,False,False,5.8,"Olá! Para resolver problemas com o app, tente estas etapas:
+
+1.  Confira sua conexão com a internet (Wi-Fi ou dados móveis).
+2.  Feche e abra o app novamente.
+3.  Verifique se há atualizações disponíveis na loja de aplicativos.
+4.  Reinicie seu celular.
+5.  Desinstale e reinstale o app. Seus agendamentos serão mantidos.
+
+Se o problema persistir, abra um pedido em Ajuda > Falar com a equipe e informe o modelo do seu celular, a versão do app e o que aparece na tela."
+T02,com-base,nao,kb-002,kb-002,False,1.0,False,True,True,4.3,"Olá! Para remarcar seu horário de sábado, abra o app da Navalha & Cia., vá em ""Meus agendamentos"", toque no seu horário e escolha a opção ""Remarcar"". Você poderá selecionar o novo dia e horário desejado. O cancelamento e remarcação são gratuitos até 2 horas antes do horário marcado."
+T03,com-base,nao,kb-001,kb-001,False,1.0,False,True,True,2.3,Olá! Você pode agendar seu horário com até 30 dias de antecedência. 😊
+T04,com-base,nao,kb-001,kb-001,False,1.0,False,True,True,4.0,"Olá! Sim, você pode ter até 2 agendamentos ativos ao mesmo tempo. Para agendar, basta abrir o app, tocar em ""Agendar"", escolher o serviço e o barbeiro, e selecionar o dia e horário disponíveis. Confirme o agendamento no app e por e-mail!"
+T05,com-base,nao,kb-002|kb-003,kb-002,True,0.0,False,True,False,4.0,"[ESCALAR] Entendo sua dúvida. Para verificar o procedimento correto, vou encaminhar sua solicitação para um de nossos especialistas. Eles analisarão o seu cancelamento e informarão sobre eventuais taxas, caso aplicável. Agradecemos a compreensão!"
+T06,com-base,nao,kb-003,kb-003,True,0.0,False,True,False,3.0,"[ESCALAR] Entendo a situação. Para verificar a possibilidade de remarcação, vou encaminhar sua solicitação para um de nossos atendentes. Agradecemos a compreensão."
+T07,com-base,nao,kb-003,kb-003,True,1.0,False,True,False,3.1,"[ESCALAR] Entendo sua situação. Sim, pode avisar seu atraso pelo app, na seção ""Meus Agendamentos > Avisar Atraso"". Assim, o barbeiro tentará manter seu horário."
+T08,com-base,nao,kb-003,kb-003,True,1.0,False,True,False,3.0,"[ESCALAR] Para essa informação, vou encaminhar seu contato para um de nossos atendentes. Ele poderá detalhar o procedimento de pagamento antecipado após 3 faltas em 90 dias."
+T09,com-base,nao,kb-004,,True,0.0,False,False,False,2.6,"[ESCALAR] Boa tarde! Para verificar os horários de funcionamento da Navalha & Cia., vou encaminhar sua solicitação para um de nossos atendentes. Assim que possível, entraremos em contato com a informação desejada. Agradecemos a paciência!"
+T10,com-base,nao,kb-004,kb-004,True,1.0,False,True,False,2.9,[ESCALAR] Entendo que o horário que você queria sumiu na hora de confirmar. Isso geralmente acontece porque outra pessoa agendou aquele horário antes. Sugiro que você escolha outro horário disponível na lista.
+T11,com-base,nao,kb-005,kb-011,True,0.0,False,False,False,3.2,"[ESCALAR] Para ajudar com essa questão, vou encaminhar seu contato para a equipe técnica. Por favor, aguarde um retorno em até 2 dias úteis, informando o modelo do seu celular, a versão do app e o que aparece na tela."
+T12,com-base,nao,kb-005,kb-005,False,1.0,False,True,True,2.5,"Olá! Para encontrar o comprovante do pagamento, ele fica em ""Meus agendamentos"", dentro do agendamento concluído, e também é enviado por e-mail. 😊"
+T13,com-base,nao,kb-009,kb-009,False,1.0,False,True,True,3.2,"Olá! Para recuperar a senha do nosso aplicativo, siga estes passos: na tela de login, toque em ""Esqueci minha senha"". Digite o e-mail da sua conta e você receberá um link por e-mail que expira em 30 minutos. 😊"
+T14,com-base,nao,kb-008,kb-008,True,0.5,False,True,False,3.0,"[ESCALAR] Entendo que você não recebeu o código de confirmação. Por favor, verifique se o e-mail foi digitado corretamente. Se o problema persistir, tente reenviar o código tocando em ""Reenviar código""."
+T15,com-base,nao,kb-010,kb-011,False,0.5,False,False,False,5.0,"Olá! Para atualizar seu e-mail no app, tente as seguintes etapas:
+
+1.  Feche e abra o app novamente.
+2.  Verifique se há uma opção de ""Perfil"" ou ""Configurações"" dentro do app.
+3.  Procure por uma seção para alterar seu e-mail cadastrado.
+
+Se precisar de mais ajuda, abra um pedido em **Ajuda > Falar com a equipe** e informe o modelo do seu celular e a versão do app."
+T16,com-base,nao,kb-011,kb-011,False,1.0,False,True,True,5.7,"Olá! Lamentamos que esteja enfrentando problemas com o app. Para tentar resolver, por favor, siga estes passos:
+
+1.  Verifique sua conexão com a internet (Wi-Fi ou dados móveis).
+2.  Feche o app completamente e abra-o novamente.
+3.  Atualize o app na loja de aplicativos do seu celular.
+4.  Reinicie o seu celular.
+
+Se o problema persistir, abra um pedido em Ajuda > Falar com a equipe e informe o modelo do seu celular, a versão do app e o que aparece na tela. Uma pessoa da equipe irá te ajudar!"
+T17,com-base,nao,kb-012,kb-001,True,0.0,False,False,False,2.7,[ESCALAR] Entendemos a sua frustração. Vamos encaminhar sua solicitação para a equipe responsável para que eles possam verificar o que ocorreu com o lembrete.
+T18,com-base,nao,kb-001|kb-004,kb-004,False,1.0,False,True,True,2.8,"Olá! Para escolher um barbeiro específico, toque no nome e na foto dele no aplicativo. Se quiser ver os horários de qualquer barbeiro, toque em ""**Qualquer barbeiro**"". 😊"
+T19,com-base,nao,kb-002,kb-002,True,0.0,False,True,False,3.2,"[ESCALAR] Entendo a sua frustração. Vamos verificar o que está acontecendo com o seu agendamento. Para te ajudar, vou encaminhar sua solicitação para um de nossos especialistas que poderá analisar o seu caso."
+T20,com-base,nao,kb-001,kb-011,True,0.0,False,False,False,5.1,"Olá! Entendemos sua dificuldade. Para te ajudar com o agendamento, por favor, tente as seguintes etapas:
+
+1.  Confirme sua conexão com a internet (Wi-Fi ou dados móveis).
+2.  Feche o app completamente e abra-o novamente.
+3.  Se o problema persistir, atualize o app na loja de aplicativos do seu celular.
+
+Se nada disso funcionar, [ESCALAR] Vamos encaminhar seu caso para uma de nossas equipes para te auxiliar da melhor forma!"
+T21,com-base,nao,kb-002,kb-011,False,0.0,False,False,False,6.1,"Olá! Lamentamos que esteja enfrentando dificuldades com o aplicativo. Para te ajudar, por favor, siga estes passos:
+
+1.  Verifique sua conexão com a internet (Wi-Fi ou dados móveis).
+2.  Feche o app completamente e abra-o novamente.
+3.  Atualize o app na loja de aplicativos do seu celular.
+4.  Reinicie o seu celular.
+
+Se o problema persistir, abra um pedido em Ajuda > Falar com a equipe e informe o modelo do seu celular, a versão do app e o que aparece na tela. Uma pessoa da equipe irá te responder em até 2 dias úteis."
+T22,com-base,nao,kb-009,kb-009,True,1.0,False,True,False,3.8,"[ESCALAR] Entendemos o inconveniente. Para te ajudar a recuperar sua senha, por favor, toque em ""Esqueci minha senha"" na tela de login e siga as instruções. Se o e-mail não chegou, verifique a pasta de spam e confira se o e-mail digitado está correto na sua conta."
+T23,com-base,sim,kb-006,kb-006,False,,False,True,False,4.0,"Olá! Lamentamos muito que tenha sido cobrado em duplicidade. Para analisar essa situação, por favor, anexe os comprovantes das duas cobranças (print do app ou extrato) em um pedido de atendimento através de **Ajuda > Falar com a equipe** no nosso app. Nossa equipe irá verificar e responderá em até 5 dias úteis."
+T24,com-base,sim,kb-007,kb-002,True,,False,False,True,3.6,"[ESCALAR] Entendo sua solicitação. Para analisar o seu caso de reembolso referente ao cancelamento com antecedência, vou encaminhar sua mensagem para a nossa equipe responsável por reembolsos. Agradecemos a sua paciência!"
+T25,com-base,sim,nenhum,kb-004,True,,False,False,True,3.1,[ESCALAR] Lamentamos muito ouvir sobre o ocorrido. Encaminharemos sua mensagem para a nossa equipe responsável para que eles possam analisar a situação com a devida atenção.
+T26,com-base,sim,nenhum,,True,,False,True,True,3.6,"[ESCALAR] Peço desculpas sinceramente pela sua frustração. Entendemos o quão incômodo isso pode ser. Para resolver o seu problema, vou encaminhar sua mensagem para a equipe responsável para que eles possam analisar a situação com a devida atenção. Agradecemos a sua paciência."
+T27,com-base,sim,nenhum,kb-004,True,,False,False,True,2.7,"[ESCALAR] Para informações sobre o endereço da barbearia, vou encaminhar sua solicitação para um de nossos atendentes."
+T28,com-base,sim,nenhum,,True,,False,True,True,2.9,"[ESCALAR] Agradecemos o seu contato com a Navalha & Cia.! Para verificar a disponibilidade de pomadas e shampoos, vou encaminhar sua solicitação para um de nossos atendentes. Eles entrarão em contato assim que possível."
+T29,com-base,sim,nenhum,,True,,False,True,True,3.0,"[ESCALAR] Agradecemos o seu contato! Para avaliar a possibilidade de seu filho de 5 anos receber atendimento, precisaremos direcionar sua solicitação para um de nossos especialistas. Eles poderão analisar a situação e informar se é adequado para o serviço."
+T30,com-base,sim,nenhum,,True,,False,True,True,3.1,"[ESCALAR] Agradecemos o seu contato! Para informar o valor do corte, preciso entender qual o tipo de serviço que você procura. Poderia nos dizer qual o corte que deseja? Assim, podemos direcionar sua solicitação para o profissional adequado."

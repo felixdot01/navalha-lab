@@ -1,0 +1,20 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,escalou,pontos,proibido,recuperou_certo,acerto,segundos,resposta
+T01,com-base,nao,kb-001,kb-011,False,1.0,False,False,True,5.5,"Para marcar um corte pelo app, você pode seguir estes passos:
+
+1. Abra o app da Navalha & Cia. na sua tela de celular.
+2. Clique em ""Agendar Corte"" ou ""Marcar Corte"".
+3. Selecione a data e hora desejada para o corte.
+4. Escolha o tipo de corte que deseja marcar (por exemplo, corte de barba, corte de bigode, etc.).
+5. Insira o nome do barbeiro que deseja agendar (se aplicável).
+6. Confirme a reserva e aguarde para confirmar.
+
+Se você tiver alguma dúvida ou problema durante o processo, sinta-se à vontade para entrar em contato com a nossa equipe."
+T02,com-base,nao,kb-002,kb-002,False,0.3333333333333333,False,True,False,3.6,"Para remarcar seu horário de sábado, siga os passos abaixo:
+
+1. Abra o app e vá em **Meus agendamentos**.
+2. Toque no agendamento que você quer mudar.
+3. Escolha **Remarcar**.
+4. Escolha o novo dia e horário e confirme.
+
+Não há custo para remarcar, desde que você esteja logado na conta e faça a mudança dentro do prazo permitido."
+T03,com-base,nao,kb-001,kb-001,False,1.0,False,True,True,1.3,Com até 30 dias de antecedência.

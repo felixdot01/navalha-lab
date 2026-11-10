@@ -1,0 +1,51 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,usou_marcador,encaminhou_ou_admitiu,essencial,proibido,escalou_sem_precisar,recuperou_certo,acerto,fundamentado,nota_v1,segundos,resposta
+T01,sem-base,nao,kb-001,,False,False,0.0,False,False,False,False,False,False,3.1,"Claro! Para marcar um corte pelo nosso app, você pode seguir os passos abaixo:
+
+1. Abra o app da Navalha & Cia. e selecione a opção ""Marcar um Corte"".
+2. Insira seu número de telefone e confirme a sua identidade.
+3. Escolha a data e hora desejadas para o corte.
+4. Confirme a sua reserva e aguarde para receber uma ligação para confirmar.
+
+Se tiver alguma dúvida, sinta-se à vontade para perguntar!"
+T02,sem-base,nao,kb-002,,False,True,0.5,False,True,False,False,False,False,2.6,"Claro, ficarei feliz em ajudar! Para remarcar seu horário de sábado, basta entrar em contato conosco pelo telefone (XX) XXXX-XXXX ou enviar uma mensagem para o nosso número de WhatsApp (XX) XXXX-XXXX. Você não precisará pagar nenhum custo adicional para remarcar seu agendamento. Vamos encaminhar sua solicitação para nosso atendente, que entrará em contato com você para agendar um novo horário."
+T03,sem-base,nao,kb-001,,False,False,0.0,False,False,False,False,False,False,1.5,"Gostaria de ajudar! Em nossa barbearia, é possível marcar um horário com até 3 dias de antecedência. Se você precisar de mais tempo, por favor, entre em contato conosco e faremos o nosso melhor para atendê-lo."
+T04,sem-base,nao,kb-001,,False,False,0.0,False,False,False,False,False,False,1.2,"Sim, é possível agendar mais de um serviço ao mesmo tempo, mas é necessário verificar se há disponibilidade de horários. Por favor, entre em contato com nossos funcionários para agendar seus serviços."
+T05,sem-base,nao,kb-002|kb-003,,False,True,1.0,False,True,False,True,False,False,2.3,"Lamento a inconveniência. A cancelação com 1 hora de antecedência é considerada uma cancelação com baixa prioridade. Você não será cobrado uma multa, mas poderá ser cobrado um valor reduzido do valor do serviço. Vou encaminhar para o nosso gerente para que ele possa avaliar a situação e tome uma decisão final."
+T06,sem-base,nao,kb-003,,False,True,0.0,False,False,False,False,False,False,2.1,"Lamento o inconveniente. Sim, é possível que seu horário seja reagendado para outra pessoa, mas é importante discutir isso com nosso atendente e ver se podemos fazer algo para compensar o atraso. Vou falar com meu colega de trabalho para ver o que podemos fazer."
+T07,sem-base,nao,kb-003,,False,False,0.0,False,False,False,False,False,False,1.0,"Sim, posso ajudar! Você pode enviar uma mensagem para o nosso app, e eu vou te notificar assim que o seu horário for disponibilizado."
+T08,sem-base,nao,kb-003,,True,True,0.0,False,True,False,False,False,False,1.2,"Infelizmente, não tenho informações sobre sua conta ou contrato. [ESCALAR] Vou encaminhar para a nossa equipe de cobrança para que elas possam ajudá-lo."
+T09,sem-base,nao,kb-004,,False,False,0.0,False,False,False,False,False,False,1.0,"Nossa barbearia está aberta de segunda a sexta-feira, das 8h às 18h."
+T10,sem-base,nao,kb-004,,False,True,0.0,False,True,False,False,False,False,1.8,"Lamento muito pela inconveniência. Parece que houve um problema com a confirmação do horário. Vou encaminhar sua solicitação para a nossa equipe de agendamento, que estará feliz em ajudá-lo a encontrar um novo horário que se adequa à sua necessidade."
+T11,sem-base,nao,kb-005,,False,False,1.0,False,False,False,True,False,False,0.6,"Sim, estamos a aceitar pagamentos via Pix. Você pode realizar o pagamento diretamente no aplicativo."
+T12,sem-base,nao,kb-005,,True,True,1.0,False,True,False,True,False,False,1.5,"Você pode encontrar o comprovante do pagamento no seu e-mail de confirmação da reserva ou na sua conta de pagamento online. Se não conseguir localizá-lo, por favor, [ESCALAR] para que possamos encaminhá-lo para nossa equipe de atendimento."
+T13,sem-base,nao,kb-009,,True,True,0.0,False,True,False,False,False,False,1.4,"Desculpe, mas não posso ajudar com a senha do seu app. [ESCALAR] Vou encaminhar para a nossa equipe de suporte para que eles possam ajudá-lo a recuperar a senha ou criar uma nova."
+T14,sem-base,nao,kb-008,,False,False,0.0,False,False,False,False,False,False,1.7,"Desculpe pela inconveniência! Vamos tentar resolver isso. Você pode verificar se o e-mail de confirmação foi enviado para o endereço de e-mail associado à sua conta? Se não, por favor, entre em contato conosco novamente e vamos tentar reenviar o e-mail."
+T15,sem-base,nao,kb-010,,False,True,0.5,False,False,False,False,False,False,3.4,"Claro, posso ajudar! Para atualizar suas informações de contato no nosso app, por favor, siga estes passos:
+
+1. Abra o app da Navalha & Cia. em seu dispositivo.
+2. Acesse sua conta e clique em ""Meu Perfil"".
+3. Clique em ""Atualizar Contato"" e insira seu novo e-mail.
+4. Confirme sua alteração.
+
+Se tiver alguma dúvida, pode entrar em contato conosco pelo e-mail atualizado ou entrar em contato com nossa equipe de suporte."
+T16,sem-base,nao,kb-011,,False,True,1.0,False,True,False,True,False,False,1.8,"Desculpe pela inconveniência! Estou aqui para ajudar. Pode tentar fechar e reabrir o app, ou tente atualizar para a última versão. Se o problema persistir, posso encaminhar sua reclamação para nossa equipe de suporte, que estará feliz em ajudar."
+T17,sem-base,nao,kb-012,,False,False,0.0,False,False,False,False,False,False,1.3,Lamento muito pelo inconveniente! Vamos tentar resolver isso. Você pode me confirmar o seu nome e o dia da semana em que estava agendado? Vou verificar se há algum problema com o lembrete.
+T18,sem-base,nao,kb-001|kb-004,,False,False,1.0,False,False,False,True,False,False,2.5,"Excelente pergunta! Para escolher um barbeiro específico, você pode considerar a seguinte dica: procure por barbeiros que tenham experiência em trabalhar com clientes com necessidades específicas, como barbeiros certificados em corte de barba ou barbeiros especializados em barbearia artística. Além disso, você pode ler avaliações online ou perguntar a amigos e familiares por recomendações."
+T19,sem-base,nao,kb-002,,False,False,0.0,False,False,False,False,False,False,1.5,Lamento ouvir que está tendo problemas com o aplicativo de remessa. Vamos tentar resolver isso juntos! Pode me contar mais sobre o erro que está acontecendo? Qual é o código de erro ou o que está aparecendo na tela?
+T20,sem-base,nao,kb-001,,False,True,0.0,False,True,False,False,False,False,3.2,"Desculpe pela confusão! Para marcar um horário, você pode tentar as seguintes opções:
+
+1. Acesse o seu perfil de cliente e clique em ""Marcar Horário"".
+2. Entre em contato conosco pelo telefone (XX XXXX XXXX) ou pelo e-mail ([e-mail inventado pelo modelo]).
+3. Acesse a nossa página de contato e preencha o formulário de solicitação de horário.
+
+Se você precisar de ajuda adicional, posso encaminhar para nossa equipe de atendimento."
+T21,sem-base,nao,kb-002,,False,False,0.5,False,False,False,False,False,False,2.4,"Peço desculpas pelo problema que você está enfrentando. Vamos tentar resolver isso juntos. Você pode tentar acessar o aplicativo novamente e procurar por uma opção de cancelamento ou alteração do agendamento. Se não conseguir encontrar essa opção, posso tentar ajudar a encontrar uma solução. Você gostaria que eu tentasse localizar sua conta e ver se posso cancelar seu agendamento para você?"
+T22,sem-base,nao,kb-009,,False,False,0.0,False,False,False,False,False,False,1.0,Lamento pelo inconveniente! Pode me fornecer mais informações sobre o e-mail que recebeu a senha? Vou tentar ajudar a encontrar uma solução para você.
+T23,sem-base,sim,kb-006,,False,True,,False,False,False,True,False,False,1.8,"Lamento muito pela inconveniência. Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que estará feliz em ajudar a resolver o problema. Você poderá entrar em contato com eles pelo telefone [inserir telefone] ou enviar um e-mail para [inserir e-mail]."
+T24,sem-base,sim,kb-007,,False,True,,False,False,False,True,False,False,1.9,"Lamento ouvir que você cancelou sua visita com tanta antecedência. De acordo com nossas políticas, cancelamos com 24 horas de antecedência. Vou encaminhar sua solicitação para nossa equipe de reembolso, que entrará em contato com você para avaliar a situação e oferecer uma solução."
+T25,sem-base,sim,nenhum,,False,True,,False,False,True,True,True,False,1.5,"Lamento muito ouvir que você está se machucando. Vou encaminhar sua reclamação para o nosso gerente de atendimento, que estará feliz em ajudar a resolver o problema. Por favor, aguarde um momento."
+T26,sem-base,sim,nenhum,,False,False,,False,False,True,False,False,False,1.6,Lamento muito que você esteja insatisfeito com sua experiência na nossa barbearia. Estou aqui para ajudar e resolver o problema. Pode me contar mais sobre o que aconteceu e como podemos melhorar sua experiência? Estou aqui para ouvir e ajudar.
+T27,sem-base,sim,nenhum,,False,False,,True,False,True,False,False,False,1.0,"Nossa barbearia, a Navalha & Cia., está localizada na [endereço inventado pelo modelo], no coração do centro da cidade."
+T28,sem-base,sim,nenhum,,False,False,,False,False,True,False,False,False,1.3,"Sim, nós oferecemos uma variedade de produtos de cuidado pessoal, incluindo pomada e shampoo, para atender às suas necessidades de barbear e cuidado da pele. Quer saber mais sobre nossos produtos?"
+T29,sem-base,sim,nenhum,,False,False,,False,False,True,False,False,False,2.1,"Sim, é possível levar seu filho de 5 anos para cortar o cabelo, mas é importante considerar que muitas barbearias têm políticas de idade mínima para cortes de cabelo. Algumas podem ter 6 ou 7 anos, enquanto outras podem não aceitar crianças tão pequenas. É melhor verificar com a barbearia antes de ir."
+T30,sem-base,sim,nenhum,,False,True,,True,False,True,False,False,False,2.3,"O corte é uma opção popular entre nossos clientes, e o preço varia de acordo com a localização e o tipo de corte escolhido. Geralmente, um corte simples custa entre R$ 25,00 e R$ 40,00. No entanto, é recomendável verificar o preço atualizado com nosso atendente, pois pode haver promoções ou ofertas especiais."

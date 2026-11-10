@@ -1,0 +1,62 @@
+id,condicao,deve_escalar,artigo_certo,artigo_recuperado,escalou,pontos,proibido,recuperou_certo,acerto,segundos,resposta
+T01,com-base,nao,kb-001,kb-011,False,1.0,False,False,True,4.8,"Para marcar um corte pelo app, você pode seguir estes passos:
+
+1. Abra o app da Navalha & Cia. na sua tela de celular.
+2. Clique em ""Agendar Corte"" ou ""Marcar Corte"".
+3. Selecione a data e hora desejada para o corte.
+4. Escolha o tipo de corte que deseja marcar (por exemplo, corte de barba, corte de bigode, etc.).
+5. Insira o nome do barbeiro que deseja agendar (se aplicável).
+6. Confirme a reserva e aguarde para confirmar.
+
+Se você tiver alguma dúvida ou problema durante o processo, sinta-se à vontade para entrar em contato com a nossa equipe."
+T02,com-base,nao,kb-002,kb-002,False,0.3333333333333333,False,True,False,2.8,"Para remarcar seu horário de sábado, siga os passos abaixo:
+
+1. Abra o app e vá em **Meus agendamentos**.
+2. Toque no agendamento que você quer mudar.
+3. Escolha **Remarcar**.
+4. Escolha o novo dia e horário e confirme.
+
+Não há custo para remarcar, desde que você esteja logado na conta e faça a mudança dentro do prazo permitido."
+T03,com-base,nao,kb-001,kb-001,False,1.0,False,True,True,0.5,Com até 30 dias de antecedência.
+T04,com-base,nao,kb-001,kb-001,False,1.0,False,True,True,0.6,"Não, cada cliente pode ter até 2 agendamentos ativos ao mesmo tempo."
+T05,com-base,nao,kb-002|kb-003,kb-002,False,0.5,False,True,False,0.4,"Não, não há multa por cancelamento."
+T06,com-base,nao,kb-003,kb-003,False,0.5,False,True,False,3.1,"Sim, é possível que o seu horário tenha sido repassado para outra pessoa após 10 minutos de atraso. De acordo com a política de atraso, se você souber que vai atrasar, avise pelo app em ""Meus agendamentos > Avisar atraso"". Isso permite que o barbeiro tente manter o seu horário."
+T07,com-base,nao,kb-003,kb-003,False,1.0,False,True,True,1.0,"Sim, você pode avisar pelo app. Para isso, acesse o seu ""Meus agendamentos"" e clique em ""Avisar atraso""."
+T08,com-base,nao,kb-003,kb-003,False,1.0,False,True,True,0.9,"Depois de 3 faltas em 90 dias, os próximos agendamentos exigem pagamento antecipado pelo app."
+T09,com-base,nao,kb-004,,False,0.0,False,False,False,0.9,"Lamento, mas não consegui encontrar informações sobre as horas e dias de funcionamento da Navalha & Cia."
+T10,com-base,nao,kb-004,kb-004,False,1.0,False,True,True,2.2,"Parece que o horário que você escolheu sumiu na hora de confirmar. Isso pode ter acontecido porque outra pessoa agendou antes nesse horário. Nesse caso, você pode tentar escolher outro horário disponível."
+T11,com-base,nao,kb-005,kb-011,False,0.5,False,False,False,0.6,"Sim, a Navalha & Cia. aceita o pagamento Pix no nosso app."
+T12,com-base,nao,kb-005,kb-005,False,1.0,False,True,True,1.7,"Você pode encontrar o comprovante de pagamento no aplicativo, na seção ""Meus agendamentos"", dentro do agendamento concluído. Além disso, também é enviado por e-mail."
+T13,com-base,nao,kb-009,kb-009,False,1.0,False,True,True,3.3,"Claro, posso ajudar! Para recuperar a senha do nosso app, você pode seguir estes passos:
+
+1. Abra o app e toque em **Esqueci minha senha**.
+2. Digite o e-mail associado à sua conta.
+3. Você receberá um link por e-mail. Lembre-se de que esse link é válido por 30 minutos.
+
+Se você não receber o e-mail, verifique a pasta de spam ou entre em contato com a nossa equipe para obter um novo link."
+T14,com-base,nao,kb-008,kb-008,True,1.0,False,True,False,2.6,"[ESCALAR] Vou encaminhar para a nossa equipe de suporte para ajudar com o problema de não receber o código de confirmação. Você pode tentar verificar a pasta de spam ou lixo eletrônico para ver se o e-mail está lá. Se não encontrar, toque em **Reenviar código** no app para obter um novo código."
+T15,com-base,nao,kb-010,kb-011,False,0.0,False,False,False,3.4,"Parece que você está tendo problemas com o app. Para atualizar o app, você pode seguir as instruções abaixo:
+
+1. Abra a loja de aplicativos do seu celular.
+2. Procure pelo nosso app e selecione-o.
+3. Clique em ""Atualizar"" ou ""Baixar e instalar"".
+4. Se necessário, aguarde a download e instalação do app.
+
+Se você tiver alguma dúvida ou precisar de ajuda adicional, sinta-se à vontade para entrar em contato conosco."
+T16,com-base,nao,kb-011,kb-011,False,0.5,False,True,False,2.7,"Parece que o problema está relacionado ao app não funcionando corretamente. Vou tentar ajudar! 
+
+Tente fechar o app completamente e abra de novo. Se o problema persistir, tente atualizar o app na loja de aplicativos do seu celular. Se isso não funcionar, reinicie o celular e, se o problema continuar, desinstale e instale o app novamente. Seus agendamentos ficam salvos na conta, então nada se perde."
+T17,com-base,nao,kb-012,kb-001,False,0.0,False,False,False,1.2,"Lamento muito que você percau o corte! Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que vai ajudá-lo a resolver esse problema."
+T18,com-base,nao,kb-001|kb-004,kb-004,False,0.0,False,True,False,0.7,"Para escolher um barbeiro específico, basta tocar no nome do barbeiro desejado."
+T19,com-base,nao,kb-002,kb-002,False,0.0,False,True,False,1.4,"Parece que você está tendo um problema com o app. Vou encaminhar isso para a nossa equipe de suporte. Você pode me esperar por um momento, e eu vou tentar ajudar a resolver o problema."
+T20,com-base,nao,kb-001,kb-011,False,0.0,False,False,False,1.6,Parece que você está tendo um problema com o app da nossa barbearia. Vou encaminhar sua dúvida para uma pessoa da equipe especializada em problemas técnicos. Você pode tentar marcar um horário novamente após a instalação do app novamente?
+T21,com-base,nao,kb-002,kb-011,False,0.0,False,False,False,1.6,Parece que você está tendo problemas com o app da nossa barbearia. Vou encaminhar sua solicitação para uma pessoa da equipe especializada em reembolso e cancelamento de agendamentos. Você pode esperar uma resposta em até 2 dias úteis.
+T22,com-base,nao,kb-009,kb-009,True,0.0,False,True,False,1.3,[ESCALAR] Vou encaminhar para a nossa equipe de suporte para ajudá-lo a recuperar a senha. Eles irão ajudá-lo a solicitar um novo link de recuperação de senha.
+T23,com-base,sim,kb-006,kb-006,False,,False,True,False,2.7,"Sinto muito pela inconveniência. Vou encaminhar sua reclamação para a equipe de cobrança duplicada. Por favor, abra um pedido de atendimento no app, em **Ajuda > Falar com a equipe**, e anexe os comprovantes das duas cobranças. A equipe irá analisar e responder em até 5 dias úteis."
+T24,com-base,sim,kb-007,kb-002,True,,False,False,True,1.1,[ESCALAR] Vou encaminhar para a nossa equipe de reembolso para ajudá-lo com o seu pedido. Ela entrará em contato com você para resolver a situação.
+T25,com-base,sim,nenhum,kb-004,False,,False,False,False,1.6,"Lamento muito que você tenha passado por isso. Vou encaminhar sua reclamação para a nossa equipe de Atendimento ao Cliente, que estará feliz em ajudar a resolver a situação. Você poderá falar com eles agora mesmo."
+T26,com-base,sim,nenhum,,False,,False,True,False,2.1,"Lamento muito que você esteja insatisfeito com o serviço que recebeu. Vou encaminhar sua reclamação para nossa equipe de Atendimento ao Cliente, que estará feliz em ajudá-lo a encontrar uma solução para o problema."
+T27,com-base,sim,nenhum,kb-004,False,,False,False,False,1.2,"Infelizmente, não tenho essa informação disponível."
+T28,com-base,sim,nenhum,,False,,False,True,False,1.3,"Sim, a Navalha & Cia. oferece uma variedade de produtos de cuidado pessoal, incluindo pomada e shampoo. Estamos aqui para ajudar com suas necessidades de barbear e cuidado da pele."
+T29,com-base,sim,nenhum,,True,,False,True,True,1.5,"Lamento, não tenho informações sobre a política da Navalha & Cia. em relação a clientes menores de idade. [ESCALAR] Posso encaminhar para a nossa equipe de atendimento para que elas possam ajudar."
+T30,com-base,sim,nenhum,,False,,False,True,False,1.3,"Lamento, mas não consegui encontrar nenhuma informação sobre o custo de um corte em um artigo. Se você tiver mais detalhes ou precisar de informações sobre outro serviço, ficarei feliz em ajudar."
